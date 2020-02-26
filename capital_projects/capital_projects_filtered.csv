@@ -1,0 +1,276 @@
+id,name,task_description,area,budgeted_amount,status,asset_id,asset_type,fiscal_year,start_date,inactive,neighborhood,council_district,ward,tract,public_works_division,pli_division,police_zone,fire_zone,latitude,longitude
+1850147310,BRIDGE REPAIRS,Columbus Avenue Bridge Handicapped Ramp and Intersection Improvements,Engineering and Construction,100000,Planned,Columbus Avenue Bridge,Bridge,2017,2017-02-08,f,Manchester,6,21,42003210700,1,21,1,1-8,40.45848456,-80.02443938
+578777540,CARNAHAN ROAD WENZELL AVENUE (TIP),Construction,Engineering and Construction,560000,Planned,Carnahan Road Bridge,Bridge,2017,2017-02-08,f,Banksville,2,20,42003202300,5,20,6,4-9,40.40714062,-80.03434176
+579358971,CARNAHAN ROAD WENZELL AVENUE (TIP),Construction,Engineering and Construction,2240000,Planned,Carnahan Road Bridge,Bridge,2017,2017-02-08,f,Banksville,2,20,42003202300,5,20,6,4-9,40.40714062,-80.03434176
+726259916,CHARLES ANDERSON BRIDGE (TIP),Preliminary Engineering Phase,Engineering and Construction,35450,Planned,Charles Anderson Bridge,Bridge,2017,2017-02-08,f,Central Oakland,3,4,42003040900,3,4,4,2-8,40.43441416,-79.95013126
+2027345037,CHARLES ANDERSON BRIDGE (TIP),Preliminary Engineering Phase,Engineering and Construction,673550,Planned,Charles Anderson Bridge,Bridge,2017,2017-02-08,f,Central Oakland,3,4,42003040900,3,4,4,2-8,40.43441416,-79.95013126
+1333025252,GREENFIELD AVENUE BRIDGE (TIP),Construction,Engineering and Construction,40000,Completed,Beechwood Boulevard Bridge,Bridge,2017,2017-02-08,f,Greenfield,5,15,42003151700,3,15,4,2-12,40.42839915,-79.93795474
+731599247,GREENFIELD AVENUE BRIDGE (TIP),Construction,Engineering and Construction,760000,Completed,Beechwood Boulevard Bridge,Bridge,2017,2017-02-08,f,Greenfield,5,15,42003151700,3,15,4,2-12,40.42839915,-79.93795474
+1949240942,WEST OHIO STREET BRIDGE (TIP),Construction Phase,Engineering and Construction,130500,Planned,West Ohio Street Bridge,Bridge,2017,2017-02-08,f,Allegheny West,1,22,42003562700,1,22,1,1-7,40.45161859,-80.01067255
+1975162648,WEST OHIO STREET BRIDGE (TIP),Construction Phase,Engineering and Construction,2479500,Planned,West Ohio Street Bridge,Bridge,2017,2017-02-08,f,Allegheny West,1,22,42003562700,1,22,1,1-7,40.45161859,-80.01067255
+845185720,ADA COMPLIANCE,Hearing Loops in Healthy Active Living Centers - South Side Market House,Administration/Sub-Award,8400,Planned,Southside Market House,Facility,2017,2017-02-08,f,South Side Flats,3,17,42003170200,3,17,3,4-24,40.4294384,-79.98642546
+468982182,FACILITY IMPROVEMENTS,City-County Building - Council Chambers,Facility Improvement,25000,Completed,City-County Building,Facility,2017,2017-02-08,f,Central Business District,6,1,42003020100,6,1,2,1-4,40.43812088,-79.9968965
+2108512192,FACILITY IMPROVEMENTS,City-County Building - Elevator #6,Facility Improvement,321000,Planned,City-County Building,Facility,2017,2017-02-08,f,Central Business District,6,1,42003020100,6,1,2,1-4,40.43812088,-79.9968965
+1070701448,FACILITY IMPROVEMENTS,Schenley Ice Rink - Upper Plaza Restoration,Facility Improvement,60000,Completed,Schenley Park Skating Rink Building,Facility,2017,2017-02-08,f,Squirrel Hill South,5,14,42003980500,3,14,4,2-8,40.43172557,-79.94526205
+547678139,PARK RECONSTRUCTION - REGIONAL ASSET DISTRICT PARKS,Schenley Park Chiller,Facility Improvement,125000,Planned,Schenley Park Skating Rink Building,Facility,2017,2017-02-08,f,Squirrel Hill South,5,14,42003980500,3,14,4,2-8,40.43145027,-79.94475417
+1339602670,RECREATION AND SENIOR CENTERS,Phillips - HVAC,Facility Improvement,350000,Planned,Phillips Gym and Recreation Center,Facility,2017,2017-02-08,f,Carrick,4,29,42003290400,3,29,3,4-23,40.3915773,-79.99095255
+381547049,PARK RECONSTRUCTION,Sidewalk  Repair - Brookline Memorial Park,Facility Improvement,42250,Completed,Brookline Memorial Park,Park,2017,2017-02-08,f,Brookline,4,32,42003320600,5,32,6,4-25,40.39012622,-80.00412481
+1521673392,PARK RECONSTRUCTION,Niagara Park,Facility Improvement,12000,Completed,Niagara Park,Park,2017,2017-02-08,f,South Oakland,3,4,42003040900,3,4,4,2-10,40.43471289,-79.96013827
+2109434793,PARK RECONSTRUCTION,Phillips Park Master Plan,Facility Improvement,30000,Completed,Phillips Park,Park,2017,2017-02-08,f,Carrick,4,29,42003290400,3,29,3,4-23,40.39059421,-79.99145985
+1900248863,PARK RECONSTRUCTION,Moore Park Recreation Center Entry Stair Replacement,Facility Improvement,20000,Completed,Moore Park,Park,2017,2017-02-08,f,Brookline,4,19,42003191700,5,19,6,4-26,40.40514666,-80.0135003
+758321611,PLAY AREA IMPROVEMENTS,Upgrade Play Structure - Mellon Park,Facility Improvement,12000,Completed,Mellon Playground,Playground,2017,2017-02-08,f,Shadyside,8,7,42003070800,2,7,4,3-13,40.45390763,-79.91579734
+1153310619,PLAY AREA IMPROVEMENTS,New Play Structure - Mellon Park,Facility Improvement,15000,Completed,Mellon Playground,Playground,2017,2017-02-08,f,Shadyside,8,7,42003070800,2,7,4,3-13,40.45390763,-79.91579734
+1403308971,PLAY AREA IMPROVEMENTS,New Safety Surface - Mellon Park,Facility Improvement,119660,Completed,Mellon Playground,Playground,2017,2017-02-08,f,Shadyside,8,7,42003070800,2,7,4,3-13,40.45390763,-79.91579734
+1620987369,PLAY AREA IMPROVEMENTS,Replace Parts - Herschel Playground,Facility Improvement,7000,Canceled,Herschel Playground,Playground,2017,2017-02-08,f,Elliott,2,20,42003562600,5,20,6,1-17,40.44027003,-80.04339874
+1191864617,PLAY AREA IMPROVEMENTS,Paint Structure - Herschel Playground,Facility Improvement,15000,Canceled,Herschel Playground,Playground,2017,2017-02-08,f,Elliott,2,20,42003562600,5,20,6,1-17,40.44027003,-80.04339874
+923739155,PLAY AREA IMPROVEMENTS,New Safety Surface - Herschel Playground,Facility Improvement,64434,Canceled,Herschel Playground,Playground,2017,2017-02-08,f,Elliott,2,20,42003562600,5,20,6,1-17,40.44027003,-80.04339874
+846408033,PLAY AREA IMPROVEMENTS,New Safety Surface - Stratmore Parklet,Facility Improvement,30000,Canceled,Joseph Kukuruda Playground,Playground,2017,2017-02-08,f,Crafton Heights,2,28,42003281500,5,28,6,1-18,40.43929832,-80.0559964
+1485842438,PLAY AREA IMPROVEMENTS,New Play Structure - Stratmore Parklet,Facility Improvement,70000,Canceled,Joseph Kukuruda Playground,Playground,2017,2017-02-08,f,Crafton Heights,2,28,42003281500,5,28,6,1-18,40.43929832,-80.0559964
+1009565403,PARK RECONSTRUCTION,Manchester Field Improvements,Facility Improvement,3000,Completed,Manchester,Playing Field,2017,2017-02-08,f,Manchester,6,21,42003210700,1,21,1,1-8,40.45676059,-80.02480352
+1693386840,SPORT FACILITY IMPROVEMENTS,Ballfield Renovations - Paul J. Sciullo II Memorial Park,Facility Improvement,35000,Completed,Officer Paul J. Sciullo II Memorial Field,Playing Field,2017,2017-02-08,f,Lower Lawrenceville,7,8,42003060300,2,8,2,3-1,40.46235444,-79.95471143
+670505821,SPORT FACILITY IMPROVEMENTS,Ballfield Renovations - McGonigle Park,Facility Improvement,35000,Completed,McGonigle,Playing Field,2017,2017-02-08,f,Sheraden,2,20,42003562500,5,20,6,1-16,40.46002342,-80.06573203
+1081059875,SPORT FACILITY IMPROVEMENTS,Phase II Schenely Park Oval Turf Package,Facility Improvement,240000,Completed,Oval,Playing Field,2017,2017-02-08,f,Squirrel Hill South,5,14,42003980500,3,14,4,2-8,40.43250117,-79.9434023
+442224800,SPORT FACILITY IMPROVEMENTS,Court Activation Button - Gardner,Facility Improvement,5200,Canceled,Gardner,Playing Field,2017,2017-02-08,f,Troy Hill,1,24,42003240600,1,24,1,1-2,40.4616534,-79.98602484
+248108512,SPORT FACILITY IMPROVEMENTS,Ballfield Renovations - Magee Playground,Facility Improvement,85000,Canceled,Magee Field 1,Playing Field,2017,2017-02-08,f,Greenfield,5,15,42003151700,3,15,4,2-15,40.4257722,-79.9376695
+1442015202,SPORT FACILITY IMPROVEMENTS,Ballfield Renovations - Spring Hill Park,Facility Improvement,35000,Completed,Spring Hill,Playing Field,2017,2017-02-08,f,Spring Hill-City View,1,26,42003262000,1,26,1,1-11,40.47037226,-79.99226563
+77586942,POOL REHABILITATION,Pool Liner - Sue Murray,Facility Improvement,55000,Completed,Sue Murray,Pool,2017,2017-02-08,f,Allegheny Center,1,22,42003562700,1,22,1,1-6,40.45128744,-80.00147818
+979654971,POOL REHABILITATION,Relocate Filter Building Above Ground - Riverview,Facility Improvement,800000,Planned,Riverview,Pool,2017,2017-02-08,f,Perry North,1,26,42003980400,1,26,1,1-15,40.4796929,-80.01844504
+918434085,POOL REHABILITATION,ADA Site Accessibility - Riverview,Facility Improvement,800000,Planned,Riverview,Pool,2017,2017-02-08,f,Perry North,1,26,42003980400,1,26,1,1-15,40.4796929,-80.01844504
+1713472049,POOL REHABILITATION,Pool Liner - West Penn,Facility Improvement,55000,Completed,West Penn,Pool,2017,2017-02-08,f,Polish Hill,7,6,42003060500,6,6,2,2-6,40.45526295,-79.96994512
+439928329,BIKE INFRASTRUCTURE,Bike Facilities - Baum/Centre Crossing,Engineering and Construction,100000,Planned,TS216,Signalized Intersection,2017,2017-02-08,f,Shadyside,8,7,42003070900,2,7,4,3-11,40.4572618,-79.93405726
+1806724539,PENNDOT LOCAL SHARE (TIP),Signal Replacement,Engineering and Construction,3000,Planned,TS267,Signalized Intersection,2017,2017-02-08,f,East Allegheny,1,23,42003563200,1,23,1,1-6,40.45641846,-79.99866027
+168702050,STEP REPAIR AND REPLACEMENT,Carnahan Road/Banksville Steps,Engineering and Construction,125000,Planned,Carnahan Rd at Younger Ave from Banksville Ave,Step,2017,2017-02-08,f,Banksville,2,20,42003202300,5,20,6,4-9,40.40681922,-80.03601023
+1274317060,STEP REPAIR AND REPLACEMENT,Lower Oakley Street Steps/Phase 2,Engineering and Construction,60000,Completed,Oakley Way from Joesphine St to McCord St,Step,2017,2017-02-08,f,South Side Slopes,3,16,42003160800,3,16,3,4-24,40.42353074,-79.9686893
+1358827067,SLOPE FAILURE REMEDIATION,Baldauf Street Wall,Engineering and Construction,150000,Completed,Baldauf St,Retaining Wall,2017,2017-02-08,f,South Side Slopes,3,17,42003170600,3,17,3,4-3,40.42303306,-79.98001595
+976733348,SLOPE FAILURE REMEDIATION,Brahm Street Wall,Engineering and Construction,400000,Completed,Brahm St,Retaining Wall,2017,2017-02-08,f,Spring Hill-City View,1,24,42003262000,1,24,1,1-24,40.46491451,-79.99852714
+1734931717,ADA COMPLIANCE,Hearing Loops in Healthy Active Living Centers - Morningside,Administration/Sub-Award,8300,Planned,Morningside Senior Center,Facility,2017,2017-02-08,f,Morningside,7,10,42003101400,2,10,5,3-7,40.48389771,-79.92497828
+537021270,ADA COMPLIANCE,Hearing Loops in Healthy Active Living Centers - Homewood,Administration/Sub-Award,8300,Planned,Homewood Senior Center,Facility,2017,2017-02-08,f,Homewood North,9,13,42003130200,2,13,5,3-17,40.45690353,-79.89300124
+2143189705,CITY COUNCIL'S UNSPECIFIED LOCAL OPTION,Community Human Services,Administration/Sub-Award,2500,Planned,,Non-Asset,2017,2017-02-08,f,Central Oakland,3,4,42003040600,3,4,4,2-11,40.43756,-79.953521
+1364486196,CITY COUNCIL'S UNSPECIFIED LOCAL OPTION,Emmaus Community of Pittsburgh,Administration/Sub-Award,2500,Planned,,Non-Asset,2017,2017-02-08,f,South Side Flats,3,16,42003160900,3,16,3,4-24,40.42546,-79.965961
+548120448,CITY COUNCIL'S UNSPECIFIED LOCAL OPTION,Community Human Services/Oakland Business Improvement District,Administration/Sub-Award,2500,Planned,,Non-Asset,2017,2017-02-08,f,Central Oakland,3,4,42003040600,3,4,4,2-11,40.43756,-79.953521
+1780500816,CITY COUNCIL'S UNSPECIFIED LOCAL OPTION,Oakland Planning & Development Corp.,Administration/Sub-Award,2500,Planned,,Non-Asset,2017,2017-02-08,f,Central Oakland,3,4,42003040500,3,4,4,2-14,40.440295,-79.956588
+993396157,CITY COUNCIL'S UNSPECIFIED LOCAL OPTION,PA Cleanways of Allegheny County,Administration/Sub-Award,2500,Planned,,Non-Asset,2017,2017-02-08,f,Perry South,6,26,42003261500,1,26,1,1-23,40.47045,-80.013791
+1088735101,CITY COUNCIL'S UNSPECIFIED LOCAL OPTION,Pennsylvania Resource Council,Administration/Sub-Award,2500,Planned,,Non-Asset,2017,2017-02-08,f,South Side Flats,3,17,42003170200,3,17,3,4-24,40.42776229,-79.98416184
+1011353526,CITY COUNCIL'S UNSPECIFIED LOCAL OPTION,Persad Center,Administration/Sub-Award,2500,Planned,,Non-Asset,2017,2017-02-08,f,Upper Lawrenceville,7,10,42003101100,2,10,2,3-5,40.482217,-79.952386
+1306020995,CITY COUNCIL'S UNSPECIFIED LOCAL OPTION,Pittsburgh AIDS Task Force,Administration/Sub-Award,2500,Planned,,Non-Asset,2017,2017-02-08,f,East Liberty,9,11,42003111500,2,11,5,3-8,40.46211,-79.926281
+151537107,CITY COUNCIL'S UNSPECIFIED LOCAL OPTION,Shepherd Wellness Community,Administration/Sub-Award,2500,Planned,,Non-Asset,2017,2017-02-09,f,Bloomfield,7,8,42003080400,2,8,5,3-1,40.45966,-79.947351
+1696718969,CITY COUNCIL'S UNSPECIFIED LOCAL OPTION,Tree of Hope,Administration/Sub-Award,2500,Planned,,Non-Asset,2017,2017-02-08,f,Squirrel Hill North,8,14,42003140300,3,14,4,2-18,40.44360122,-79.92105373
+1995361909,CITY COUNCIL'S UNSPECIFIED LOCAL OPTION,Vietnam Veterans Leadership,Administration/Sub-Award,2500,Planned,,Non-Asset,2017,2017-02-08,f,Strip District,7,6,42003020300,6,6,2,3-2,40.45905,-79.973781
+665932056,CITY COUNCIL'S UNSPECIFIED LOCAL OPTION,Brashear Association,Administration/Sub-Award,13000,Planned,,Non-Asset,2017,2017-02-08,f,South Side Flats,3,17,42003170200,3,17,3,4-24,40.42778,-79.977411
+765817022,CITY COUNCIL'S UNSPECIFIED LOCAL OPTION,Hilltop Alliance,Administration/Sub-Award,13000,Planned,,Non-Asset,2017,2017-02-08,f,Allentown,3,18,42003180300,5,18,3,4-6,40.42208,-79.992501
+1784673740,CITY COUNCIL'S UNSPECIFIED LOCAL OPTION,Western Pennsylvania Conservancy,Administration/Sub-Award,2500,Planned,,Non-Asset,2017,2017-02-08,f,Troy Hill,1,24,42003240600,6,24,1,1-1,40.46432654,-79.97690068
+1707167348,CITY COUNCIL'S UNSPECIFIED LOCAL OPTION,Brashear Association,Administration/Sub-Award,3000,Planned,,Non-Asset,2017,2017-02-08,f,South Side Flats,3,17,42003170200,3,17,3,4-24,40.42778,-79.977411
+1503392411,CITY COUNCIL'S UNSPECIFIED LOCAL OPTION,PA Cleanways of Allegheny County,Administration/Sub-Award,3000,Planned,,Non-Asset,2017,2017-02-08,f,Perry South,6,26,42003261500,1,26,1,1-23,40.47045,-80.013791
+855687619,CITY COUNCIL'S UNSPECIFIED LOCAL OPTION,Angel's Place,Administration/Sub-Award,5000,Planned,,Non-Asset,2017,2017-02-08,f,Brookline,4,19,42003191800,5,19,6,4-26,40.392744,-80.025097
+1521147785,CITY COUNCIL'S UNSPECIFIED LOCAL OPTION,Pennsylvania Resources Council,Administration/Sub-Award,6000,Planned,,Non-Asset,2017,2017-02-08,f,South Side Flats,3,17,42003170200,3,17,3,4-24,40.42773983,-79.98419134
+1101090684,CITY COUNCIL'S UNSPECIFIED LOCAL OPTION,Economic Development South,Administration/Sub-Award,10000,Planned,,Non-Asset,2017,2017-02-08,f,,,,42003478100,,,,,40.36574,-79.981881
+1814653410,CITY COUNCIL'S UNSPECIFIED LOCAL OPTION,Elizabeth Seton Center,Administration/Sub-Award,12000,Planned,,Non-Asset,2017,2017-02-08,f,Brookline,4,19,42003191700,5,19,6,4-26,40.40387,-80.015861
+1863873342,CITY COUNCIL'S UNSPECIFIED LOCAL OPTION,Community Human Services,Administration/Sub-Award,2500,Planned,,Non-Asset,2017,2017-02-08,f,Central Oakland,3,4,42003040600,3,4,4,2-11,40.43756,-79.953521
+1976647247,CITY COUNCIL'S UNSPECIFIED LOCAL OPTION,Jewish Family and Childrens Services - Refugee Services,Administration/Sub-Award,2500,Planned,,Non-Asset,2017,2017-02-08,f,Squirrel Hill South,5,14,42003141300,3,14,4,2-21,40.43622838,-79.92372459
+64074019,CITY COUNCIL'S UNSPECIFIED LOCAL OPTION,Jewish Family and Childrens Services - Career Development,Administration/Sub-Award,2500,Planned,,Non-Asset,2017,2017-02-08,f,Squirrel Hill South,5,14,42003141300,3,14,4,2-21,40.43620052,-79.92366113
+1106814282,CITY COUNCIL'S UNSPECIFIED LOCAL OPTION,Pittsburgh AIDS Task Force,Administration/Sub-Award,2500,Planned,,Non-Asset,2017,2017-02-08,f,East Liberty,9,11,42003111500,2,11,5,3-8,40.46211,-79.926281
+1433254678,CITY COUNCIL'S UNSPECIFIED LOCAL OPTION,Reading is Fundamental of Pittsburgh,Administration/Sub-Award,2500,Planned,,Non-Asset,2017,2017-02-08,f,Allegheny Center,1,22,42003562700,1,22,1,1-6,40.45262636,-80.00687478
+229986650,CITY COUNCIL'S UNSPECIFIED LOCAL OPTION,Young Men and Women's Hebrew Association / Irene Kauffman Centers / JCC of Greater Pittsburgh,Administration/Sub-Award,2500,Planned,,Non-Asset,2017,2017-02-08,f,Squirrel Hill South,5,14,42003141300,3,14,4,2-18,40.43769262,-79.92393066
+1707851509,CITY COUNCIL'S UNSPECIFIED LOCAL OPTION,Jewish Family and Childrens Services - Squirrel Hill Community Food Pantry,Administration/Sub-Award,3500,Planned,,Non-Asset,2017,2017-02-08,f,Squirrel Hill South,5,14,42003141300,3,14,4,2-21,40.43622728,-79.92373157
+279892637,CITY COUNCIL'S UNSPECIFIED LOCAL OPTION,SLB Radio Productions,Administration/Sub-Award,8000,Planned,,Non-Asset,2017,2017-02-08,f,Allegheny Center,1,22,42003562700,1,22,1,1-6,40.45266718,-80.00673531
+442921157,CITY COUNCIL'S UNSPECIFIED LOCAL OPTION,Hazelwood Initiative,Administration/Sub-Award,15000,Planned,,Non-Asset,2017,2017-02-08,f,Hazelwood,5,15,42003562300,3,15,4,2-13,40.40643414,-79.94266699
+325570794,CITY COUNCIL'S UNSPECIFIED LOCAL OPTION,Rebuilding Together Pittsburgh,Administration/Sub-Award,30000,Planned,,Non-Asset,2017,2017-02-08,f,Homewood South,9,13,42003130400,2,13,5,3-17,40.44961865,-79.88901163
+1985413396,CITY COUNCIL'S UNSPECIFIED LOCAL OPTION,Community Human Services,Administration/Sub-Award,2500,Planned,,Non-Asset,2017,2017-02-08,f,Central Oakland,3,4,42003040600,3,4,4,2-11,40.43756,-79.953521
+1650204036,CITY COUNCIL'S UNSPECIFIED LOCAL OPTION,Lower Bloomfield Unity Council,Administration/Sub-Award,2500,Planned,,Non-Asset,2017,2017-02-08,f,Bloomfield,7,8,42003080200,2,8,5,3-1,40.46043,-79.949541
+1410397358,CITY COUNCIL'S UNSPECIFIED LOCAL OPTION,Pittsburgh Project,Administration/Sub-Award,2500,Planned,,Non-Asset,2017,2017-02-08,f,Perry South,6,26,42003261500,1,26,1,1-23,40.47045,-80.013791
+524382614,CITY COUNCIL'S UNSPECIFIED LOCAL OPTION,Bloomfield Garfield Corporation,Administration/Sub-Award,5000,Planned,,Non-Asset,2017,2017-02-08,f,Garfield,9,10,42003101700,2,10,5,3-23,40.46488,-79.940971
+702833766,CITY COUNCIL'S UNSPECIFIED LOCAL OPTION,Shepherd Wellness Center,Administration/Sub-Award,5000,Planned,,Non-Asset,2017,2017-02-08,f,Bloomfield,7,8,42003080400,2,8,5,3-1,40.45960985,-79.94740608
+1502385020,CITY COUNCIL'S UNSPECIFIED LOCAL OPTION,Union Project,Administration/Sub-Award,5000,Planned,,Non-Asset,2017,2017-02-08,f,Highland Park,7,11,42003110200,2,11,5,3-9,40.47189274,-79.92646752
+868580857,CITY COUNCIL'S UNSPECIFIED LOCAL OPTION,Western Pennsylvania Conservancy,Administration/Sub-Award,5000,Planned,,Non-Asset,2017,2017-02-08,f,Troy Hill,1,24,42003240600,6,24,1,1-1,40.46443867,-79.9769306
+1884392059,CITY COUNCIL'S UNSPECIFIED LOCAL OPTION,Friendship Community Group,Administration/Sub-Award,7500,Planned,,Non-Asset,2017,2017-02-08,f,Bloomfield,7,8,42003080900,2,8,5,3-6,40.46244245,-79.9445909
+517234150,CITY COUNCIL'S UNSPECIFIED LOCAL OPTION,Lawrenceville Corporation,Administration/Sub-Award,15000,Planned,,Non-Asset,2017,2017-02-08,f,Central Lawrenceville,7,9,42003090100,2,9,2,3-3,40.47256001,-79.96375526
+740358061,CITY COUNCIL'S UNSPECIFIED LOCAL OPTION,Lawrenceville United,Administration/Sub-Award,15000,Planned,,Non-Asset,2017,2017-02-08,f,Central Lawrenceville,7,9,42003090100,2,9,2,3-5,40.47704053,-79.95718418
+1634559501,FACILITY IMPROVEMENTS,Fire Station 28 - Roof Replacement,Facility Improvement,300000,Completed,Firehouse 28,Roofing System,2017,2017-08-01,f,Beechview,4,19,42003191600,5,19,6,4-28,40.41312585,-80.02517762
+1633549294,FACILITY IMPROVEMENTS,Fire Station 13 - Roof Replacement,Facility Improvement,200000,Completed,Firehouse 13,Roofing System,2017,2017-02-08,f,Hazelwood,5,15,42003562300,3,15,4,2-13,40.41012612,-79.94227362
+1938294584,FACILITY IMPROVEMENTS,Medic 8 - Roof Replacement,Facility Improvement,125000,Completed,Medic 08 Asphalt Shingle,Roofing System,2017,2017-02-08,f,Allentown,3,18,42003180300,5,18,3,4-21,40.42025045,-79.99500521
+1610380231,FACILITY IMPROVEMENTS,Fire Station 6 - Roof Replacement,Facility Improvement,250000,Completed,Firehouse 06,Roofing System,2017,2017-02-08,f,Lower Lawrenceville,7,6,42003060300,2,6,2,3-6,40.4648831,-79.95814144
+1950145696,FACILITY IMPROVEMENTS,"Fire Station 26 - Roof Replacement, Interior Renovations",Facility Improvement,300000,Completed,Firehouse 26,Roofing System,2017,2017-03-27,f,Brookline,4,19,42003191800,5,19,6,4-26,40.39478237,-80.02185025
+862962060,RECREATION AND SENIOR CENTERS,Brighton Heights - Roof,Facility Improvement,50000,Planned,B600 - Brighton Heights Senior Center Roof,Roofing System,2017,2017-02-08,f,Brighton Heights,1,27,42003270300,1,27,1,1-14,40.47926901,-80.03578392
+909184333,BRIDGE REPAIRS,Columbus Ave Bridge wall repair,Engineering and Construction,50000,Planned,Manchester Park 1,Sidewalk,2017,2017-02-08,f,Manchester,6,21,42003210700,1,21,1,1-8,40.45835404,-80.02503256
+247307022,PARK RECONSTRUCTION,Sidewalk  Repair - Armstrong Park,Facility Improvement,7500,Planned,Armstrong Park,Sidewalk,2017,2017-02-08,f,South Side Flats,3,17,42003170200,3,17,3,4-24,40.42806308,-79.9858565
+1959071253,PARK RECONSTRUCTION,Sidewalk  Repair - McKinley Park,Facility Improvement,5000,Planned,Delmont Ave from Michigan St to Amesbury St,Sidewalk,2017,2017-02-08,f,Beltzhoover,4,18,42003562400,5,18,3,4-16,40.41495709,-80.00382162
+166060304,PARK RECONSTRUCTION,Sidewalk  Repair - Baxter,Facility Improvement,26000,Planned,Baxter Park,Sidewalk,2017,2017-02-08,f,Homewood North,9,13,42003130200,2,13,5,3-17,40.45608842,-79.88928567
+1382632327,PARK RECONSTRUCTION,Sidewalk Repair - Brighton Heights,Facility Improvement,10000,Planned,Brighton Heights Park 1,Sidewalk,2017,2017-02-08,f,Brighton Heights,1,27,42003270800,1,27,1,1-14,40.48717632,-80.03144636
+1834771191,PARK RECONSTRUCTION,Sidewalk  Repair - Legion,Facility Improvement,5000,Planned,Legion Memorial Park,Sidewalk,2017,2017-02-08,f,Brighton Heights,1,27,42003270100,1,27,1,1-14,40.48194059,-80.03465037
+1797061367,PARK RECONSTRUCTION,Sidewalk  Repair - McCandless Park,Facility Improvement,6000,Planned,McCandless Park,Sidewalk,2017,2017-02-08,f,Upper Lawrenceville,7,10,42003101100,2,10,2,3-5,40.48078639,-79.95260101
+153276188,PARK RECONSTRUCTION,Sidewalk  Repair - Chartiers,Facility Improvement,50000,Completed,Chartiers Park,Sidewalk,2017,2017-02-08,f,Windgap,2,28,42003563000,5,28,6,1-16,40.45718218,-80.07422147
+316110855,PARK RECONSTRUCTION,Sidewalk  Repair - Troy Hill Citizen's Park,Facility Improvement,5000,Canceled,Troy Hill Citizen's Park,Sidewalk,2017,2017-02-08,f,Troy Hill,1,24,42003240600,1,24,1,1-2,40.46321886,-79.98375534
+2033384131,PARK RECONSTRUCTION,Sidewalk  Repair - Mellon Park,Facility Improvement,25000,Completed,Mellon Park 1,Sidewalk,2017,2017-02-08,f,Point Breeze,8,14,42003140400,3,14,4,2-17,40.45235866,-79.91830606
+631727297,PARK RECONSTRUCTION,Sidewalk  Repair - Lewis Park,Facility Improvement,14000,Planned,Lewis Park,Sidewalk,2017,2017-02-08,f,Hazelwood,5,15,42003562900,3,15,4,2-13,40.41290176,-79.94480785
+1291881316,PARK RECONSTRUCTION,Sidewalk  Repair - Burgwin Park,Facility Improvement,43000,Planned,Burgwin Park,Sidewalk,2017,2017-02-08,f,Hazelwood,5,15,42003562300,3,15,4,2-13,40.40502883,-79.93679996
+1039507612,PARK RECONSTRUCTION,Naturalization - Lawn & Ophelia,Facility Improvement,85000,Planned,Lawn and Ophelia Park,Sidewalk,2017,2017-02-08,f,South Oakland,6,4,42003040900,3,4,4,2-10,40.43541798,-79.96532733
+1603171534,PARK RECONSTRUCTION,Sidewalk  Repair - Robert E. Williams,Facility Improvement,20000,Planned,Robert E. Williams Park,Sidewalk,2017,2017-02-08,f,Upper Hill,6,5,42003050600,3,5,2,2-22,40.45453674,-79.96005889
+724061875,PARK RECONSTRUCTION,Sidewalk  Repair - Allegheny Commons Park,Facility Improvement,13000,Planned,W North Ave from Brighton Rd to Arch St,Sidewalk,2017,2017-02-08,f,Allegheny Center,1,22,42003562700,1,22,1,1-21,40.4544671,-80.01153001
+2121246508,PARK RECONSTRUCTION,Sidewalk  Repair - Osceola Park,Facility Improvement,5000,Planned,Osceola Park,Sidewalk,2017,2017-02-08,f,Bloomfield,7,8,42003080400,2,8,5,3-1,40.45671579,-79.94243405
+1875168517,PARK RECONSTRUCTION,Sidewalk  Repair - Marmaduke,Facility Improvement,10000,Planned,Marmaduke Park,Sidewalk,2017,2017-02-08,f,Brighton Heights,1,27,42003270100,1,27,1,1-14,40.48469399,-80.04234086
+1768521605,PARK RECONSTRUCTION,Sidewalk  Repair - McKnight,Facility Improvement,10000,Planned,McKnight Park,Sidewalk,2017,2017-02-08,f,Manchester,6,21,42003210700,1,21,1,1-8,40.45200025,-80.02300794
+82939880,PARK RECONSTRUCTION,Sidewalk  Repair - Phillips Park,Facility Improvement,5000,Planned,Phillips Park,Sidewalk,2017,2017-02-08,f,Carrick,4,29,42003290400,3,29,3,4-23,40.39079588,-79.99036625
+83776626,PARK RECONSTRUCTION,Sidewalk  Repair - Moore Park,Facility Improvement,48000,Completed,Moore Park 1,Sidewalk,2017,2017-02-08,f,Brookline,4,19,42003191700,5,19,6,4-26,40.40539608,-80.01502789
+683373708,PARK RECONSTRUCTION,Sidewalk  Repair - Stratmore,Facility Improvement,32000,Canceled,Stratmore Park 1,Sidewalk,2017,2017-02-08,f,Crafton Heights,2,28,42003281500,5,28,6,1-18,40.43934561,-80.05593571
+784101184,PARK RECONSTRUCTION,Sidewalk  Repair - Gladstone Park,Facility Improvement,9000,Planned,Gladstone Park,Sidewalk,2017,2017-02-08,f,Hazelwood,5,15,42003562300,3,15,4,2-12,40.41530397,-79.93890509
+1141647367,STREETSCAPE AND INTERSECTION RECONSTRUCTION,Grandview Avenue Sidewalk and Curb Repair,Engineering and Construction,200000,Planned,Grandview Overlook,Sidewalk,2017,2017-02-08,f,Mount Washington,2,19,42003190300,5,19,3,4-27,40.43325756,-80.00924406
+1709604652,BIKE INFRASTRUCTURE,Bike Lanes - 18th Street,Engineering and Construction,110000,Planned,,Non-Asset,2017,2017-03-01,f,South Side Slopes,3,17,42003160800,3,17,3,4-3,40.42239981,-79.97831977
+1543255831,BIKE INFRASTRUCTURE,Bike Lanes - Ellsworth Avenue,Engineering and Construction,100000,Planned,,Non-Asset,2017,2017-03-01,f,Shadyside,8,7,42003070300,2,7,4,3-22,40.45275109,-79.9366742
+631011957,SPORT FACILITY IMPROVEMENTS,Court Repair with ARMORÂ® Crack and Color Coating - Allegheny Commons Park Arch Street,Facility Improvement,91687.5,Completed,Allegheny Commons Basketball Court 1,Court,2017,2017-03-01,f,Allegheny Center,1,22,42003562700,1,22,1,1-7,40.45443824,-80.00809714
+838094499,SPORT FACILITY IMPROVEMENTS,Court Activation Button - Allegheny Commons Park Arch Street,Facility Improvement,15600,Planned,,Non-Asset,2017,2017-03-01,f,Allegheny Center,1,22,42003562700,1,22,1,1-7,40.45444232,-80.0081025
+202348059,SPORT FACILITY IMPROVEMENTS,Court Activation Button - Cowley,Facility Improvement,5200,Completed,,Non-Asset,2017,2017-03-01,f,Troy Hill,1,24,42003240600,1,24,1,1-2,40.45856902,-79.98862433
+386400459,SPORT FACILITY IMPROVEMENTS,Court Activation Button - McBride Park,Facility Improvement,5200,Planned,,Non-Asset,2017,2017-03-01,f,Lincoln Place,5,31,42003310200,3,31,4,4-20,40.36980981,-79.90774667
+222267082,SPORT FACILITY IMPROVEMENTS,Court Renovation with Color Coat  - Moore Park,Facility Improvement,90000,Completed,Moore Park Basketball Court 1,Court,2017,2017-03-01,f,Brookline,4,19,42003191700,5,19,6,4-26,40.40504796,-80.01467302
+652658627,SPORT FACILITY IMPROVEMENTS,Court Activation Button - Allegheny Commons West Park Tennis,Facility Improvement,5200,Completed,,Non-Asset,2017,2017-03-01,f,Allegheny Center,1,22,42003562700,1,22,1,1-7,40.45215601,-80.01218168
+535303304,SPORT FACILITY IMPROVEMENTS,Court Activation Button - Manchester Playground,Facility Improvement,5200,Planned,,Non-Asset,2017,2017-03-01,f,Manchester,6,21,42003210700,1,21,1,1-8,40.45876577,-80.02535307
+963264725,SPORT FACILITY IMPROVEMENTS,Court Activation Button - Herschel Park,Facility Improvement,10400,Completed,,Non-Asset,2017,2017-03-01,f,Elliott,2,20,42003562600,5,20,6,1-17,40.439923,-80.04377136
+1616174703,SPORT FACILITY IMPROVEMENTS,Court Activation Button - Lewis Playground,Facility Improvement,5200,Completed,,Non-Asset,2017,2017-03-01,f,Hazelwood,5,15,42003562900,3,15,4,2-13,40.41293074,-79.94487953
+1497890897,SPORT FACILITY IMPROVEMENTS,Court Activation Button - Marmaduke,Facility Improvement,5200,Completed,,Non-Asset,2017,2017-03-01,f,Brighton Heights,1,27,42003270100,1,27,1,1-14,40.48438837,-80.0431004
+1833192417,SPORT FACILITY IMPROVEMENTS,ADA Bleachers for Dek Hockey - Marmaduke,Facility Improvement,39000,Completed,Marmaduke Park Dek Hockey Court,Court,2017,2017-03-01,f,Brighton Heights,1,27,42003270100,1,27,1,1-14,40.48449347,-80.04304878
+132071348,SPORT FACILITY IMPROVEMENTS,Court Activation Button - Paulson Playground,Facility Improvement,5200,Planned,,Non-Asset,2017,2017-03-02,f,Lincoln-Lemington-Belmar,9,12,42003120300,2,12,5,3-15,40.46851517,-79.89967363
+1298882467,SPORT FACILITY IMPROVEMENTS,Court Activation Button - Joe Natoli Playground,Facility Improvement,5200,Canceled,,Non-Asset,2017,2017-03-02,f,Morningside,7,10,42003101400,2,10,5,3-7,40.48431105,-79.92532359
+1836552447,SPORT FACILITY IMPROVEMENTS,Court Activation Button - Spring Hill Park,Facility Improvement,5200,Planned,,Non-Asset,2017,2017-03-02,f,Spring Hill-City View,1,26,42003262000,1,26,1,1-11,40.47024854,-79.99325153
+1446706248,SPORT FACILITY IMPROVEMENTS,Court Renovation with Color Coat - Spring Hill Park,Facility Improvement,121000,Planned,Spring Hill Park Hockey Court 1,Court,2017,2017-03-02,f,Spring Hill-City View,1,26,42003262000,1,26,1,1-11,40.47025695,-79.9931282
+111785401,SPORT FACILITY IMPROVEMENTS,Court Repair with ARMORÂ® Crack and Color Coating - Stratmore Park,Facility Improvement,55312.5,Canceled,Stratmore Park Basketball Court 1,Court,2017,2017-03-02,f,Crafton Heights,2,28,42003281500,5,28,6,1-18,40.43964836,-80.05618254
+850575494,SPORT FACILITY IMPROVEMENTS,,Facility Improvement,50000,Planned,Alton Concession Stand,Facility,2017,2017-03-02,f,Beechview,4,19,42003191600,5,19,6,4-28,40.41437232,-80.02177553
+1082939755,AUDIBLE PEDESTRIAN AND TRAFFIC SIGNALS,Haberman/Warrington/Busway Intersection Signal Update Design and Construction,Engineering and Construction,25000,Canceled,,Non-Asset,2017,2017-03-02,f,Mount Washington,3,18,42003562400,5,18,3,4-16,40.42108072,-80.00245965
+856704340,BIKE INFRASTRUCTURE,Bike Lanes - Brighton Road,Engineering and Construction,70000,Planned,,Non-Asset,2017,2017-03-02,f,California-Kirkbride,6,25,42003220600,1,25,1,1-21,40.45610355,-80.01540399
+1856775266,"PENN AVENUE RECONSTRUCTION, PHASE II (TIP)",Final Design,Engineering and Construction,100000,Planned,,Non-Asset,2017,2017-03-02,f,Bloomfield,7,8,42003080900,2,8,5,3-23,40.46475233,-79.94117118
+520868950,SMITHFIELD STREET (TIP),Smithfield Street - Forbes Avenue to 6th Avenue,Engineering and Construction,150000,Planned,,Non-Asset,2017,2017-03-02,f,Central Business District,6,2,42003020100,6,2,2,1-3,40.44144372,-79.99774433
+2142286454,SMITHFIELD STREET (TIP),Smithfield Street - Forbes Avenue to 6th Avenue,Engineering and Construction,600000,Planned,,Non-Asset,2017,2017-03-02,f,Central Business District,6,2,42003020100,6,2,2,1-3,40.4414478,-79.9977497
+1270928541,STREET RESURFACING,Sampsonia Way Green Alley,Engineering and Construction,150000,Planned,,Non-Asset,2017,2017-03-02,f,Central Northside,1,25,42003250300,1,25,1,1-21,40.456984,-80.011381
+869288104,STREETSCAPE AND INTERSECTION RECONSTRUCTION,Haberman/Warrington/Busway Intersection Crosswalks and Signage,Engineering and Construction,15000,Canceled,,Non-Asset,2017,2017-03-02,f,Beltzhoover,3,18,42003562400,5,18,3,4-16,40.42106172,-80.00242376
+1005385149,STREETSCAPE AND INTERSECTION RECONSTRUCTION,Lowrie Street,Engineering and Construction,80000,Completed,,Non-Asset,2017,2017-03-02,f,Troy Hill,1,24,42003240600,1,24,1,1-2,40.46448031,-79.98211894
+10706957,STREETSCAPE AND INTERSECTION RECONSTRUCTION,Trelona Way Reconstruction,Engineering and Construction,100000,Planned,,Non-Asset,2017,2017-03-02,f,Brookline,4,19,42003191800,5,19,6,4-26,40.39361083,-80.0206433
+1175169281,SPORT FACILITY IMPROVEMENTS,Court Repair with ARMORÂ® Crack and Color Coating - Arlington Park,Facility Improvement,38250,Canceled,Arlington Park Basketball Court 1,Court,2017,2017-03-07,f,South Side Slopes,3,16,42003160800,3,16,3,4-22,40.41798058,-79.97503222
+1455673214,SPORT FACILITY IMPROVEMENTS,Court Renovation with Color Coat - Arsenal Park,Facility Improvement,28500,Planned,Arsenal Basketball Court 1,Court,2017,2017-03-07,f,Lower Lawrenceville,7,6,42003060300,2,6,2,3-3,40.46692814,-79.96225164
+1174677079,SPORT FACILITY IMPROVEMENTS,Court Renovation with Color Coat - Arsenal Park,Facility Improvement,28500,Planned,Arsenal Hockey Court 1,Court,2017,2017-03-07,f,Lower Lawrenceville,7,6,42003060300,2,6,2,3-3,40.46675358,-79.96200742
+2069679765,TRAIL DEVELOPMENT,Washington Boulevard Multimodal Path Design/Engineering (SMART Transportation Grant),Engineering and Construction,109755,Planned,,Non-Asset,2017,2017-03-15,f,Highland Park,7,12,42003980100,2,12,5,3-15,40.48397493,-79.9078933
+1715780576,TRAIL DEVELOPMENT,Washington Boulevard Multimodal Path Construction (SMART Transportation Grant),Engineering and Construction,448471,Planned,,Non-Asset,2017,2017-03-15,f,Highland Park,7,12,42003980100,2,12,5,3-15,40.48397901,-79.90789867
+714473310,RAMP AND PUBLIC SIDEWALK,Pinecastle Avenue sidewalk reconstruction,Engineering and Construction,50000,Completed,Pinecastle Ave,Sidewalk,2017,2017-03-15,f,Overbrook,4,32,42003320700,5,32,3,4-25,40.38266563,-79.99840383
+1464142515,7500 - FACILITY IMPROVEMENTS,EIFS & Glazing Replacement,Facility Improvement,380000,Completed,Firehouse 22,Facility,2017,2017-08-28,f,South Side Slopes,3,16,42003170600,3,16,3,4-22,40.4182136,-79.9789714
+1137635699,7500 - FACILITY IMPROVEMENTS,Exterior Masonry Repairs by Contractor,Facility Improvement,167000,Completed,Firehouse 26,Facility,2017,2017-03-20,f,Brookline,4,19,42003191800,5,19,6,4-26,40.39479049,-80.02185285
+913335422,7500 - FACILITY IMPROVEMENTS,,Facility Improvement,122595,Completed,Arsenal Park Building,Roofing System,2017,2017-04-03,f,Lower Lawrenceville,7,6,42003060300,2,6,2,3-3,40.46681008,-79.96031548
+759573196,7500 - FACILITY IMPROVEMENTS,,Facility Improvement,24414.57,Completed,Arsenal Park Building,Facility,2017,2017-04-17,f,Lower Lawrenceville,7,6,42003060300,2,6,2,3-3,40.46676128,-79.96032511
+2001704845,7500 - FACILITY IMPROVEMENTS,Exterior Masonry Repairs,Facility Improvement,187000,Completed,Firehouse 28,Facility,2017,2017-05-15,f,Beechview,4,19,42003191600,5,19,6,4-28,40.41312224,-80.02517411
+392003694,7500 - FACILITY IMPROVEMENTS,Exterior Masonry Repairs and Cleaning,Facility Improvement,,Completed,Olympia Park Recreation Center,Facility,2017,2017-06-08,f,Mount Washington,2,19,42003190300,5,19,3,4-1,40.43127842,-80.01830677
+302632301,,Exterior Masonry Repairs,,,Completed,Firehouse 19,Facility,2017,2017-08-02,f,Swisshelm Park,5,14,42003141100,3,14,4,2-19,40.42081761,-79.89982829
+203837658,7500 - FACILITY IMPROVEMENTS,Law Dept Abatement & Renovation,Facility Improvement,75000,Completed,City-County Building,Facility,2017,2017-11-14,f,Central Business District,6,1,42003020100,6,1,2,1-4,40.43812088,-79.9968965
+896139348,7500 - FACILITY IMPROVEMENTS,9th Floor OMI-Cable Bureau Temp Control System,Facility Improvement,80000,Completed,City-County Building,Facility,2017,2017-04-18,f,Central Business District,6,1,42003020100,6,1,2,1-4,40.43812088,-79.9968965
+1806057609,ADA COMPLIANCE,First Responders Guide for People with Disabilities,Administration/Sub-Award,8000,Planned,,Non-Asset,2017,2017-02-08,,,,,,,,,,0,0
+509160176,BIKE SHARE,Education and Outreach,Engineering and Construction,1500,Planned,,Non-Asset,2017,2017-02-08,,,,,,,,,,0,0
+563830573,BIKE SHARE,Shipping,Engineering and Construction,9000,Planned,,Non-Asset,2017,2017-02-08,,,,,,,,,,0,0
+279361630,BIKE SHARE,Administration,Engineering and Construction,10000,Planned,,Non-Asset,2017,2017-02-08,,,,,,,,,,0,0
+850241936,BIKE SHARE,Import Duties and Customs,Engineering and Construction,18000,Planned,,Non-Asset,2017,2017-02-08,,,,,,,,,,0,0
+959725113,BIKE SHARE,Education and Outreach,Engineering and Construction,48500,Planned,,Non-Asset,2017,2017-02-08,,,,,,,,,,0,0
+2138074579,BIKE SHARE,"Planning, Engineering, and Siting",Engineering and Construction,50000,Planned,,Non-Asset,2017,2017-02-08,,,,,,,,,,0,0
+640076703,BIKE SHARE,Docks (500),Engineering and Construction,125000,Planned,,Non-Asset,2017,2017-02-08,,,,,,,,,,0,0
+1176645534,BIKE SHARE,Kiosks (25),Engineering and Construction,187500,Planned,,Non-Asset,2017,2017-02-08,,,,,,,,,,0,0
+1591414121,BIKE SHARE,Bikes (250),Engineering and Construction,325000,Planned,,Non-Asset,2017,2017-02-08,,,,,,,,,,0,0
+1089850663,CAPITAL EQUIPMENT ACQUISITION,Capital Equipment Acquisition,Vehicles and Equipment,1812131,Planned,,Non-Asset,2017,2017-02-08,,,,,,,,,,0,0
+929314916,CAPITAL EQUIPMENT ACQUISITION,Capital Equipment Acquisition,Vehicles and Equipment,3187869,Planned,,Non-Asset,2017,2017-02-08,,,,,,,,,,0,0
+185639249,CDBG ADMINISTRATION,Overall Administration,Administration/Sub-Award,55000,Planned,,Non-Asset,2017,2017-02-08,,,,,,,,,,0,0
+1407863670,CDBG PERSONNEL,Overall Administration,Administration/Sub-Award,1100000,Planned,,Non-Asset,2017,2017-02-08,,,,,,,,,,0,0
+1508404138,CENTER FOR INNOVATION AND ENTREPRENEURSHIP,"New Business Start Up, Business Expansion, and Business Attraction",Neighborhood and Community Development,200000,Planned,,Non-Asset,2017,2017-02-08,,,,,,,,,,0,0
+395628538,CHOICE NEIGHBORHOOD,Mixed Income Rental Development,Neighborhood and Community Development,109040,Planned,,Non-Asset,2017,2017-02-08,,,,,,,,,,0,0
+1711303231,CHOICE NEIGHBORHOOD,Park Construction,Neighborhood and Community Development,272700,Planned,,Non-Asset,2017,2017-02-08,,,,,,,,,,0,0
+1195483380,CHOICE NEIGHBORHOOD,Green Infrastructure,Neighborhood and Community Development,272700,Planned,,Non-Asset,2017,2017-02-08,,,,,,,,,,0,0
+464527610,CHOICE NEIGHBORHOOD,Owner-Occupied FaÃ§ade  Renovations,Neighborhood and Community Development,400000,Planned,,Non-Asset,2017,2017-02-08,,,,,,,,,,0,0
+79948394,CHOICE NEIGHBORHOOD,Mixed Income Rental Development,Neighborhood and Community Development,1454400,Planned,,Non-Asset,2017,2017-02-08,,,,,,,,,,0,0
+1025851891,CITIZEN PARTICIPATION,Provide Information to the City of Pittsburgh Regarding the CDBG Program,Administration/Sub-Award,200000,Planned,,Non-Asset,2017,2017-02-08,,,,,,,,,,0,0
+485811647,CITY COUNCIL'S UNSPECIFIED LOCAL OPTION,Center for Victims - Pittsburgh Mediation Center,Administration/Sub-Award,2500,Planned,,Non-Asset,2017,2017-02-08,,,,,,,,,,0,0
+832421824,CITY COUNCIL'S UNSPECIFIED LOCAL OPTION,Pittsburgh Action Against Rape,Administration/Sub-Award,2500,Planned,,Non-Asset,2017,2017-02-08,,,,,,,,,,0,0
+1867875910,CITY COUNCIL'S UNSPECIFIED LOCAL OPTION,Pittsburgh Community Services - Safety,Administration/Sub-Award,16000,Planned,,Non-Asset,2017,2017-02-08,,,,,,,,,,0,0
+1206789398,CITY COUNCIL'S UNSPECIFIED LOCAL OPTION,Pittsburgh Community Services - Hunger,Administration/Sub-Award,64000,Planned,,Non-Asset,2017,2017-02-08,,,,,,,,,,0,0
+650157383,CITY COUNCIL'S UNSPECIFIED LOCAL OPTION,Greater Pittsburgh Community Food Bank,Administration/Sub-Award,65000,Planned,,Non-Asset,2017,2017-02-08,,,,,,,,,,0,0
+1596798826,CITY COUNCIL'S UNSPECIFIED LOCAL OPTION,District 1 Seniors and Low & Moderate Income residents,Administration/Sub-Award,75000,Planned,,Non-Asset,2017,2017-02-08,,,,,,,,,,0,0
+2017997452,CITY COUNCIL'S UNSPECIFIED LOCAL OPTION,City Council's Unspecified Local Option,Administration/Sub-Award,75000,Planned,,Non-Asset,2017,2017-02-08,,,,,,,,,,0,0
+15617822,CITY COUNCIL'S UNSPECIFIED LOCAL OPTION,Center for Victims - Crisis Intervention,Administration/Sub-Award,2500,Planned,,Non-Asset,2017,2017-02-08,,,,,,,,,,0,0
+1060767135,CITY COUNCIL'S UNSPECIFIED LOCAL OPTION,Pittsburgh Action Against Rape,Administration/Sub-Award,2500,Planned,,Non-Asset,2017,2017-02-08,,,,,,,,,,0,0
+431503827,CITY COUNCIL'S UNSPECIFIED LOCAL OPTION,Southside Slopes Neighborhood Association,Administration/Sub-Award,2500,Planned,,Non-Asset,2017,2017-02-08,,,,,,,,,,0,0
+1133224421,CITY COUNCIL'S UNSPECIFIED LOCAL OPTION,Saint Paul's Benevolent & Missionary Institute,Administration/Sub-Award,2500,Planned,,Non-Asset,2017,2017-02-08,,,,,,,,,,0,0
+1359214332,CITY COUNCIL'S UNSPECIFIED LOCAL OPTION,Saint Clair Athletic Association,Administration/Sub-Award,4000,Planned,,Non-Asset,2017,2017-02-08,,,,,,,,,,0,0
+1249627394,CITY COUNCIL'S UNSPECIFIED LOCAL OPTION,City Council's Unspecified Local Option,Administration/Sub-Award,5000,Planned,,Non-Asset,2017,2017-02-08,,,,,,,,,,0,0
+1792522481,CITY COUNCIL'S UNSPECIFIED LOCAL OPTION,Center for Victims of Violence & Crime / Pittsburgh Mediation Center,Administration/Sub-Award,2500,Planned,,Non-Asset,2017,2017-02-08,,,,,,,,,,0,0
+1165982255,CITY COUNCIL'S UNSPECIFIED LOCAL OPTION,Greater Pittsburgh Community Food Bank,Administration/Sub-Award,3000,Planned,,Non-Asset,2017,2017-02-08,,,,,,,,,,0,0
+625933011,CITY COUNCIL'S UNSPECIFIED LOCAL OPTION,Pittsburgh Action Against Rape,Administration/Sub-Award,3000,Planned,,Non-Asset,2017,2017-02-08,,,,,,,,,,0,0
+1177549293,CITY COUNCIL'S UNSPECIFIED LOCAL OPTION,Womens Center and Shelter,Administration/Sub-Award,3000,Planned,,Non-Asset,2017,2017-02-08,,,,,,,,,,0,0
+2127914303,CITY COUNCIL'S UNSPECIFIED LOCAL OPTION,Brookline Christian Food Pantry,Administration/Sub-Award,10000,Planned,,Non-Asset,2017,2017-02-08,,,,,,,,,,0,0
+1696615757,CITY COUNCIL'S UNSPECIFIED LOCAL OPTION,Pittsburgh Action Against Rape,Administration/Sub-Award,1000,Planned,,Non-Asset,2017,2017-02-08,,,,,,,,,,0,0
+435286799,CITY COUNCIL'S UNSPECIFIED LOCAL OPTION,Prayer and Deliverance Community Opportunities (PADCO),Administration/Sub-Award,2500,Planned,,Non-Asset,2017,2017-02-08,,,,,,,,,,0,0
+1565662227,CITY COUNCIL'S UNSPECIFIED LOCAL OPTION,City Council's Unspecified Local Option,Administration/Sub-Award,75000,Planned,,Non-Asset,2017,2017-02-08,,,,,,,,,,0,0
+1835066902,CITY COUNCIL'S UNSPECIFIED LOCAL OPTION,Bloomfield Preservation and Heritage,Administration/Sub-Award,2500,Planned,,Non-Asset,2017,2017-02-08,,,,,,,,,,0,0
+880832154,CITY COUNCIL'S UNSPECIFIED LOCAL OPTION,Greater Pittsburgh Community Food Bank,Administration/Sub-Award,2500,Planned,,Non-Asset,2017,2017-02-08,,,,,,,,,,0,0
+1509885810,CITY COUNCIL'S UNSPECIFIED LOCAL OPTION,City Council's Unspecified Local Option,Administration/Sub-Award,75000,Planned,,Non-Asset,2017,2017-02-08,,,,,,,,,,0,0
+1864592856,CITY COUNCIL'S UNSPECIFIED LOCAL OPTION,Poise Foundation,Administration/Sub-Award,75000,Planned,,Non-Asset,2017,2017-02-08,,,,,,,,,,0,0
+1634050597,COMMUNITY-BASED ORGANIZATIONS,Improve Housing and Economic Development in Distressed Areas of the City,Administration/Sub-Award,600000,Planned,,Non-Asset,2017,2017-02-08,,,,,,,,,,0,0
+731230156,COMPREHENSIVE PLAN,Park Standards & Adopt-A-Park Toolkit,Administration/Sub-Award,40000,Planned,,Non-Asset,2017,2017-02-08,,,,,,,,,,0,0
+1655756360,COMPREHENSIVE PLAN,Park Standards & Adopt-A-Park Toolkit,Administration/Sub-Award,40000,Planned,,Non-Asset,2017,2017-02-08,,,,,,,,,,0,0
+283816953,DEMOLITION OF CONDEMNED BUILDINGS,Party Wall Program,Public Safety,500000,Planned,,Non-Asset,2017,2017-02-08,,,,,,,,,,0,0
+590226425,DEMOLITION OF CONDEMNED BUILDINGS,Demolition of Vacant Properties,Public Safety,1800000,Planned,,Non-Asset,2017,2017-02-08,,,,,,,,,,0,0
+1478926566,DEMOLITION OF CONDEMNED BUILDINGS,Accamando Center Busway Entry Plan Saw Mill Run Blvd across from Maytide,Public Safety,50000,Planned,,Non-Asset,2017,2017-02-08,,,,,,,,,,0,0
+209060648,"DESIGN, CONSTRUCTION, AND INSPECTION SERVICES",Structures Engineering,Engineering and Construction,150000,Planned,,Non-Asset,2017,2017-02-08,,,,,,,,,,0,0
+368069498,"DESIGN, CONSTRUCTION, AND INSPECTION SERVICES",Infrastructure Engineering,Engineering and Construction,200000,Planned,,Non-Asset,2017,2017-02-08,,,,,,,,,,0,0
+1215759115,"DESIGN, CONSTRUCTION, AND INSPECTION SERVICES",CM/CI Services,Engineering and Construction,200000,Planned,,Non-Asset,2017,2017-02-08,,,,,,,,,,0,0
+525620358,ECONOMIC DEVELOPMENT AND HOUSING,Residential FaÃ§ades Improved,Neighborhood and Community Development,150000,Planned,,Non-Asset,2017,2017-02-08,,,,,,,,,,0,0
+66641140,ECONOMIC DEVELOPMENT AND HOUSING,New/Substantially Renovated for Sale Housing Units Developed,Neighborhood and Community Development,300000,Planned,,Non-Asset,2017,2017-02-08,,,,,,,,,,0,0
+553135045,ECONOMIC DEVELOPMENT AND HOUSING,New/Substantially Renovated For Sale Housing Units Developed,Neighborhood and Community Development,500000,Planned,,Non-Asset,2017,2017-02-08,,,,,,,,,,0,0
+1906344201,ECONOMIC DEVELOPMENT AND HOUSING,New/Substantially Renovated Rental Units Developed,Neighborhood and Community Development,500000,Planned,,Non-Asset,2017,2017-02-08,,,,,,,,,,0,0
+1648845719,ECONOMIC DEVELOPMENT AND HOUSING,New/Substantially Renovated Rental Units Developed,Neighborhood and Community Development,500000,Planned,,Non-Asset,2017,2017-02-08,,,,,,,,,,0,0
+751438497,ECONOMIC DEVELOPMENT AND HOUSING,New/Substantially Renovated For Sale Housing Units Developed,Neighborhood and Community Development,500000,Planned,,Non-Asset,2017,2017-02-08,,,,,,,,,,0,0
+632493130,ECONOMIC DEVELOPMENT AND HOUSING,Owner Occupied Homes Rehabilitated,Neighborhood and Community Development,750000,Planned,,Non-Asset,2017,2017-02-08,,,,,,,,,,0,0
+1830027773,EMERGENCY SOLUTIONS GRANT,"Shelter, Rapid Rehousing, Homeless Prevention, and Street Outreach Assistance",Administration/Sub-Award,1149245,Planned,,Non-Asset,2017,2017-02-08,,,,,,,,,,0,0
+1867277561,FACILITY IMPROVEMENTS,Fire Stations - Aprons,Facility Improvement,150000,Planned,,Non-Asset,2017,2017-02-08,,,,,,,,,,0,0
+622753519,FACILITY IMPROVEMENTS,Fire Stations - Bay Floors,Facility Improvement,175000,Planned,,Non-Asset,2017,2017-02-08,,,,,,,,,,0,0
+1921804330,FACILITY IMPROVEMENTS,Facilities Division Emergency Repairs,Facility Improvement,200000,Planned,,Non-Asset,2017,2017-02-08,,,,,,,,,,0,0
+771985638,FACILITY IMPROVEMENTS,Facilities Optimization Plan Phase II,Facility Improvement,1000000,Planned,,Non-Asset,2017,2017-02-08,,,,,,,,,,0,0
+941886262,FAIR HOUSING,"Administration, Education, and Training Related to Fair Housing",Administration/Sub-Award,100000,Planned,,Non-Asset,2017,2017-02-08,,,,,,,,,,0,0
+1208057911,FIREFIGHTING EQUIPMENT,Digital Control Dispatch Consoles (2),Public Safety,200000,Planned,,Non-Asset,2017,2017-02-08,,,,,,,,,,0,0
+299395649,FIREFIGHTING EQUIPMENT,EMS Station Installations (11),Public Safety,550000,Planned,,Non-Asset,2017,2017-02-08,,,,,,,,,,0,0
+1988052721,FIREFIGHTING EQUIPMENT,Fire Station Installations (29),Public Safety,1450000,Planned,,Non-Asset,2017,2017-02-08,,,,,,,,,,0,0
+491681199,FLEX BEAM GUIDERAILS AND FENCING,Flex Beam Guiderails,Engineering and Construction,50000,Planned,,Non-Asset,2017,2017-02-08,,,,,,,,,,0,0
+60578928,HOUSING OPPORTUNITIES FOR PERSONS WITH AIDS,Rental Assistance and Referral Services,Administration/Sub-Award,735136,Planned,,Non-Asset,2017,2017-02-08,,,,,,,,,,0,0
+60948457,INFORMATION SYSTEMS MODERNIZATION,Public Safety Monitoring and IT Improvements,Administration/Sub-Award,500000,Planned,,Non-Asset,2017,2017-02-08,,,,,,,,,,0,0
+2036506042,INTEGRATED SELF-ASSESSED BUSINESS TAX AND REVENUE SYSTEM,New Revenue System,Administration/Sub-Award,750000,Planned,,Non-Asset,2017,2017-02-08,,,,,,,,,,0,0
+574534080,LITTER CAN UPGRADES AND MONITORING,Sensor Installation and Monitoring Costs,Facility Improvement,50000,Planned,,Non-Asset,2017,2017-02-08,,,,,,,,,,0,0
+544115725,LITTER CAN UPGRADES AND MONITORING,Purchase of 200 New Victor Stanley Litter Cans,Facility Improvement,240000,Planned,,Non-Asset,2017,2017-02-08,,,,,,,,,,0,0
+479425859,MAJOR DEVELOPMENTS,Closed Schools and Municipal Asset Stewardship,Neighborhood and Community Development,100000,Planned,,Non-Asset,2017,2017-02-08,,,,,,,,,,0,0
+203573570,MAJOR DEVELOPMENTS,Brownfield Development,Neighborhood and Community Development,150000,Planned,,Non-Asset,2017,2017-02-08,,,,,,,,,,0,0
+1303831872,MAJOR DEVELOPMENTS,"Public Space Improvements, Transit Improvements, Park and Open Space Development, and Other Infrastructure Improvements",Neighborhood and Community Development,150000,Planned,,Non-Asset,2017,2017-02-08,,,,,,,,,,0,0
+1878597962,MAYOR'S UNSPECIFIED LOCAL OPTION,Mayor's Unspecified Local Option,Administration/Sub-Award,300000,Planned,,Non-Asset,2017,2017-02-08,,,,,,,,,,0,0
+1222978558,NEIGHBORHOOD EMPLOYMENT CENTERS,Support for Employment Program,Administration/Sub-Award,150000,Planned,,Non-Asset,2017,2017-02-08,,,,,,,,,,0,0
+762616575,PARK RECONSTRUCTION - REGIONAL ASSET DISTRICT PARKS,Parks Equipment,Facility Improvement,100000,Completed,,Non-Asset,2017,2017-02-08,,,,,,,,,,0,0
+1965587133,PARK RECONSTRUCTION - REGIONAL ASSET DISTRICT PARKS,Street Resurfacing,Facility Improvement,240000,Completed,,Non-Asset,2017,2017-02-08,,,,,,,,,,0,0
+1936205750,PENNDOT LOCAL SHARE (TIP),PennDOT ADA Ramp Reconstruction,Engineering and Construction,100000,Planned,,Non-Asset,2017,2017-02-08,,,,,,,,,,0,0
+829194288,PENNDOT LOCAL SHARE (TIP),PennDOT Investments in City Infrastructure,Engineering and Construction,100000,Planned,,Non-Asset,2017,2017-02-08,,,,,,,,,,0,0
+1003425822,PITTSBURGH EMPLOYMENT PROGRAM,Support for Employment Program,Administration/Sub-Award,150000,Planned,,Non-Asset,2017,2017-02-08,,,,,,,,,,0,0
+1221859304,PITTSBURGH SUMMER YOUTH EMPLOYMENT PROGRAM,Support for Employment Program,Administration/Sub-Award,700000,Planned,,Non-Asset,2017,2017-02-08,,,,,,,,,,0,0
+193202779,PLAY AREA IMPROVEMENTS,Playground Audit - 38 Playgrounds,Facility Improvement,50000,Completed,,Non-Asset,2017,2017-02-08,,,,,,,,,,0,0
+1565453060,PLAY AREA IMPROVEMENTS,Playground Audits - 56 Playgrounds in CDBG areas,Facility Improvement,72800,Completed,,Non-Asset,2017,2017-02-08,,,,,,,,,,0,0
+71875741,POOL REHABILITATION,Pump Replacement,Facility Improvement,50000,Completed,,Non-Asset,2017,2017-02-08,,,,,,,,,,0,0
+1424719656,POOL REHABILITATION,"Bathroom Renovations to Achieve ADA Compliance Schenley, Riverview, Sue Murray, Ormsby",Facility Improvement,75000,Completed,,Non-Asset,2017,2017-02-08,,,,,,,,,,0,0
+1794700793,RAMP AND PUBLIC SIDEWALK,City Sidewalks,Engineering and Construction,50000,Planned,,Non-Asset,2017,2017-02-08,,,,,,,,,,0,0
+337260139,RAMP AND PUBLIC SIDEWALK,ADA Curb Ramps and Public Sidewalks,Engineering and Construction,100000,Planned,,Non-Asset,2017,2017-02-08,,,,,,,,,,0,0
+655375912,SENIOR COMMUNITY PROGRAM,Senior Community Program,Administration/Sub-Award,750000,Planned,,Non-Asset,2017,2017-02-08,,,,,,,,,,0,0
+1437091658,SIGNAGE AND WAYFINDING,Wayfinding Signage - Construction,Neighborhood and Community Development,105998,Planned,,Non-Asset,2017,2017-02-08,,,,,,,,,,0,0
+1714857715,SIGNAGE AND WAYFINDING,Wayfinding Signage - Construction,Neighborhood and Community Development,436102,Planned,,Non-Asset,2017,2017-02-08,,,,,,,,,,0,0
+694053351,STEP REPAIR AND REPLACEMENT,City Accelerator Step Assessment,Engineering and Construction,100000,Planned,,Non-Asset,2017,2017-02-08,,,,,,,,,,0,0
+2034448920,STEP REPAIR AND REPLACEMENT,City Accelerator Step Assessment,Engineering and Construction,100000,Planned,,Non-Asset,2017,2017-02-08,,,,,,,,,,0,0
+1449414446,STREET RESURFACING,Bike and Pedestrian Thermoplastic Paint,Engineering and Construction,200000,Planned,,Non-Asset,2017,2017-02-08,,,,,,,,,,0,0
+865803673,STREET RESURFACING,Bituminous,Engineering and Construction,247800,Planned,,Non-Asset,2017,2017-02-08,,,,,,,,,,0,0
+587640297,STREET RESURFACING,Concrete,Engineering and Construction,250000,Planned,,Non-Asset,2017,2017-02-08,,,,,,,,,,0,0
+1558979641,STREET RESURFACING,Bituminous,Engineering and Construction,270000,Planned,,Non-Asset,2017,2017-02-08,,,,,,,,,,0,0
+1999360877,STREET RESURFACING,Pavement Markings,Engineering and Construction,465000,Planned,,Non-Asset,2017,2017-02-08,,,,,,,,,,0,0
+92641545,STREET RESURFACING,Crack Sealing,Engineering and Construction,465000,Planned,,Non-Asset,2017,2017-02-08,,,,,,,,,,0,0
+1805286209,STREET RESURFACING,Ramps,Engineering and Construction,472170,Planned,,Non-Asset,2017,2017-02-08,,,,,,,,,,0,0
+1902507792,STREET RESURFACING,Ramps,Engineering and Construction,477830,Planned,,Non-Asset,2017,2017-02-08,,,,,,,,,,0,0
+1730837914,STREET RESURFACING,Pothole Materials,Engineering and Construction,620000,Planned,,Non-Asset,2017,2017-02-08,,,,,,,,,,0,0
+1519237168,STREET RESURFACING,Brick/Block,Engineering and Construction,750000,Planned,,Non-Asset,2017,2017-02-08,,,,,,,,,,0,0
+260852692,STREET RESURFACING,Bituminous,Engineering and Construction,10516025,Planned,,Non-Asset,2017,2017-02-08,,,,,,,,,,0,0
+1817977216,TRAIL DEVELOPMENT,Trolley Trail Phase 2,Engineering and Construction,61935.28,Planned,,Non-Asset,2017,2017-02-08,,,,,,,,,,0,0
+1857056005,TRAIL DEVELOPMENT,Trolley Trail Phase 2,Engineering and Construction,247741.12,Planned,,Non-Asset,2017,2017-02-08,,,,,,,,,,0,0
+830298550,URBAN LEAGUE- HOUSING COUNSELING,Housing Counseling for Low- and Moderate-Income Residents,Administration/Sub-Award,100000,Planned,,Non-Asset,2017,2017-02-08,,,,,,,,,,0,0
+1932663062,URBAN REDEVELOPMENT AUTHORITY PERSONNEL,HOME program administration,Administration/Sub-Award,160000,Planned,,Non-Asset,2017,2017-02-08,,,,,,,,,,0,0
+480115367,URBAN REDEVELOPMENT AUTHORITY PERSONNEL,"Housing Initiatives, Business Development, Major Projects",Administration/Sub-Award,2000000,Planned,,Non-Asset,2017,2017-02-08,,,,,,,,,,0,0
+1030719487,URBAN REDEVELOPMENT AUTHORITY PROPERTY MAINTENANCE,URA owned properties cleared of grass/weeds/snow,Neighborhood and Community Development,400000,Planned,,Non-Asset,2017,2017-02-08,,,,,,,,,,0,0
+143244129,WAR MEMORIALS AND PUBLIC ART,War Memorial and Public Art Conservation,Neighborhood and Community Development,50000,Planned,,Non-Asset,2017,2017-02-08,,,,,,,,,,0,0

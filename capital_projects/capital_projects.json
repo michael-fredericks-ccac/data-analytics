@@ -1,0 +1,23 @@
+{
+	"id" 					: "",
+	"name"					: "",
+	"task_description" 		: "",
+	"area"					: "",
+	"budgeted_amount"		: "",
+	"status"				: "",
+	"asset_id"				: "",
+	"asset_type"			: "",
+	"fiscal_year"			: "2017",
+	"start_date"			: "",
+	"inactive"				: "",
+	"neighborhood"			: "",
+	"council_district"		: "",
+	"ward"					: "",
+	"tract"					: "",
+	"public_works_division"	: "",
+	"pli_division"			: "",
+	"police_zone"			: "",
+	"fire_zone"				: "",
+	"latitude"				: "",
+	"longitude"				: ""
+}
