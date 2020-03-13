@@ -1,4 +1,4 @@
-Get Company Profile Data from Financial Modelling Prep API
+Get Company Profile Data from Financial Modeling Prep API
 
 Follow the below instructions:
 1. Add tickers to the list in the JSON file 'ticker-list.json' as an array.
