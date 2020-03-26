@@ -1,0 +1,2 @@
+This python script is used for webscraping Icy-Veins website and their Diablo 3 builds.
+The purpose of this script is to count the number of times an item appears in different builds. It then sorts the items by count, in descending order and prints the findings.
